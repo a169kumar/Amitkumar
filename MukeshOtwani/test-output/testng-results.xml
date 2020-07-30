@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-04T17:41:07Z" name="Default suite" finished-at="2019-10-04T17:41:45Z" duration-ms="37999">
+    <groups>
+    </groups>
+    <test started-at="2019-10-04T17:41:07Z" name="Default test" finished-at="2019-10-04T17:41:45Z" duration-ms="37999">
+      <class name="HandlingDropDown.DataProviderExample">
+        <test-method signature="createEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:HandlingDropDown.DataProviderExample@6dc17b83]" started-at="2019-10-04T23:11:09Z" name="createEmployee" data-provider="readData" finished-at="2019-10-04T23:11:23Z" duration-ms="13828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amitki]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amitkumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BranchAdmin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ameerpet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployee -->
+        <test-method signature="createEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:HandlingDropDown.DataProviderExample@6dc17b83]" started-at="2019-10-04T23:11:23Z" name="createEmployee" data-provider="readData" finished-at="2019-10-04T23:11:34Z" duration-ms="11326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ankurki]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ankurkumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BranchAdmin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Srnager456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployee -->
+        <test-method signature="createEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:HandlingDropDown.DataProviderExample@6dc17b83]" started-at="2019-10-04T23:11:34Z" name="createEmployee" data-provider="readData" finished-at="2019-10-04T23:11:45Z" duration-ms="10914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mukeshki]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mukeshkumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BranchAdmin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ameerpet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployee -->
+      </class> <!-- HandlingDropDown.DataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
